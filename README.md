@@ -7,6 +7,7 @@ npm install
 ```
 
 sign in to https://stihi.ru/
+
 check cookie values of "login" and "pcode"
 
 # Start
